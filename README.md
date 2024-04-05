@@ -1,16 +1,20 @@
-### Hi there 👋
+# 📖 Oshodin's Portfolio
 
-<!--
-**austinosho/austinosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome aboard! 🎉 This is the spot where I showcase all my data adventures. From small experiments to big discoveries, you'll find the highlights of my journey in the world of data right here. Dive in and see what I've been up to!
+## Table of Contents
+- [SQL](#SQL)
+- [Python](#project-2)
+- [Data Engineering](#project-3)
+- [Excel](#project-4)
+- [Tableau](#project-5)
+## SQL 
 
-Here are some ideas to get you started:
+Here, you'll find details about my SQL project, including the goals, the datasets I worked with, and the outcomes of my analysis. Dive in to discover how I tackled data challenges with SQL!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Link | Area of Analysis | Project Description |
+| ------------ | ---------------- | ------------------- |
+
+
+
+
+
