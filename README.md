@@ -10,6 +10,6 @@
 
 ## Let's Connect
 
-📫 Reach out to me on [LinkedIn](www.linkedin.com/in/augustine-oshodin-64a233267) for collaborations or just to connect and exchange ideas!
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/augustine-oshodin-64a233267) for collaborations or just to connect and exchange ideas!
 
 Thank you for visiting my GitHub! Dive into my repositories below and let's embark on a journey of discovery and innovation together.
