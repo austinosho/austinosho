@@ -1,20 +1,15 @@
-# 📖 Oshodin's Portfolio
+# Welcome to Osahenrhumwen Augustine Oshodin's GitHub!
 
-Welcome aboard! 🎉 This is the spot where I showcase all my data adventures. From small experiments to big discoveries, you'll find the highlights of my journey in the world of data right here. Dive in and see what I've been up to!
-## Table of Contents
-- [SQL](#SQL)
-- [Python](#project-2)
-- [Data Engineering](#project-3)
-- [Excel](#project-4)
-- [Tableau](#project-5)
-## SQL 
+## About Me
 
-Here, you'll find details about my SQL project, including the goals, the datasets I worked with, and the outcomes of my analysis. Dive in to discover how I tackled data challenges with SQL!
+👨‍💻 A Bachelor of Science graduate in Computer Science from the University of Benin and Masters degree in Advanced computer science with Data Science, passionate about harnessing the power of data and technology to solve complex problems.
 
-| Project Link | Area of Analysis | Project Description |
-| ------------ | ---------------- | ------------------- |
+📊 Skilled in Python, SQL, Tableau and Microsoft Office Suite, I enjoy uncovering insights through data analysis and tackling challenges with careful and thoughtful solutions.
 
+🌱 Lifelong learner dedicated to personal and professional growth through continuous learning and real-world application.
 
+## Let's Connect
 
+📫 Reach out to me on [LinkedIn](www.linkedin.com/in/augustine-oshodin-64a233267) for collaborations or just to connect and exchange ideas!
 
-
+Thank you for visiting my GitHub! Dive into my repositories below and let's embark on a journey of discovery and innovation together.
